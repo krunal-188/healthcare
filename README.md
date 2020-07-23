@@ -7,3 +7,4 @@ Manipulation or even self harm
 
 This system would help an individual to overcome his mental disorder by exploring parameters like tracking anxiety levels, stress levels and physical and mental tiredness. CBT(Cognitive behavioral therapy) is commonly used to treat a wide range of disorders, including phobias, addictions, depression and anxiety. Use CBT techniques and methods along with Machine learning or Artificial Intelligence and provide solutions.
 
+This system also has a patient to patient anonymity. The patient can be anonymous as long as he wants.
